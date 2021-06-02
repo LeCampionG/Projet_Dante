@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T13:54:19.343Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cHU64sqVg3AVi7S2cGb4" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T14:42:52.474Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="nihqU2Di6Uj9sHFDSJai" version="14.7.3" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="1">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="39150e848f15840c-2" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="750" y="104" width="330" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="39150e848f15840c-3" value="Site Infernum&lt;br&gt;&lt;br&gt;&lt;br&gt;Site web permettant de renseigner des&amp;nbsp;&lt;br&gt;informations sur les projet et données&amp;nbsp;&lt;br&gt;hébergés&lt;br&gt;&lt;br&gt;Objectif : &lt;br&gt;1-Renseigner simplement&lt;br&gt;(via questionnaire php) des &quot;métadonnées&quot;&amp;nbsp;&lt;br&gt;sur les projets.&lt;br&gt;2-Visualiser une liste des projets, auteurs et&amp;nbsp;&lt;br&gt;type de données traités à Passages" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Georgia;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="39150e848f15840c-3" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Georgia;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="410" y="600" width="260" height="230" as="geometry" />
         </mxCell>
         <mxCell id="-P8GrV4rSHHgKXdaOTVs-6" value="&lt;font color=&quot;#67ab9f&quot;&gt;Archivage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
@@ -298,6 +298,9 @@
               <mxPoint x="220" y="700" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-P8GrV4rSHHgKXdaOTVs-174" value="&lt;span style=&quot;text-align: left&quot;&gt;Site Infernum&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Site web permettant de renseigner des&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;informations sur les projet et données&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;hébergés&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Objectif :&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;1-Renseigner simplement&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;(via questionnaire php) des &quot;métadonnées&quot;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;sur les projets.&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;2-Visualiser une liste des projets, auteurs et&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;type de données traités à Passages&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="615" width="240" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
