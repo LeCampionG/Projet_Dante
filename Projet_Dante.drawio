@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T14:42:52.474Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="nihqU2Di6Uj9sHFDSJai" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T14:48:47.751Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="J65UXgfKMXsB_4KH9nie" version="14.7.3" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="1">
       <root>
@@ -184,7 +184,7 @@
             <mxPoint x="520" y="418" as="sourcePoint" />
             <mxPoint x="450" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="520" />
+              <mxPoint x="440" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -233,8 +233,8 @@
         <mxCell id="-P8GrV4rSHHgKXdaOTVs-129" value="Rubicante" style="text;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="955" y="160.25" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-P8GrV4rSHHgKXdaOTVs-154" value="&lt;font color=&quot;#7ea6e0&quot;&gt;Projet&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;α&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=23;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="849.25" y="271.75" width="130" height="20" as="geometry" />
+        <mxCell id="-P8GrV4rSHHgKXdaOTVs-154" value="&lt;font color=&quot;#7ea6e0&quot; style=&quot;font-size: 20px;&quot;&gt;Projet&lt;font face=&quot;helvetica, sans-serif&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 20px;&quot;&gt;&amp;nbsp;alpha&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="854.88" y="268.75" width="120.75" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="-P8GrV4rSHHgKXdaOTVs-155" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#6c8ebf;rotation=-90;direction=west;" vertex="1" parent="1">
           <mxGeometry x="800.25" y="320" width="230" height="337.5" as="geometry" />
@@ -269,7 +269,7 @@
         <mxCell id="-P8GrV4rSHHgKXdaOTVs-165" value="Rubicante" style="text;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="956" y="392.25" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-P8GrV4rSHHgKXdaOTVs-166" value="&lt;font color=&quot;#7ea6e0&quot;&gt;Projet&amp;nbsp;&lt;/font&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/%CE%A9&quot; class=&quot;extiw&quot; title=&quot;w:Ω&quot; style=&quot;color: rgb(51 , 102 , 187) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&lt;span lang=&quot;fr&quot; class=&quot;lang-fr&quot;&gt;Ω&lt;/span&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=23;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="-P8GrV4rSHHgKXdaOTVs-166" value="&lt;font color=&quot;#7ea6e0&quot; style=&quot;font-size: 20px&quot;&gt;Projet omega&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="850.25" y="503.75" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-P8GrV4rSHHgKXdaOTVs-169" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
